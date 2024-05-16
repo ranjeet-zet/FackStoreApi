@@ -30,7 +30,8 @@ Getting started with our API is easy! Simply make requests to the desired endpoi
 
 ## Support and Feedback
 
-We're committed to providing excellent support and welcome any feedback or suggestions you may have. If you encounter any issues or have questions about using our API, please don't hesitate to reach out to us on [LinkedIn]("https://www.linkedin.com/in/ranjeet-jd/").
+We're committed to providing excellent support and welcome any feedback or suggestions you may have. If you encounter any issues or have questions about using our API, please don't hesitate to reach out to us on [LinkedIn](https://www.linkedin.com/in/ranjeet-jd/)
+
 
 
 ## Start Exploring Today!
