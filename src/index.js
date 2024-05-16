@@ -9,7 +9,7 @@ dotenv.config({
 app.use('/api/v1/stores', storeRoute)
 // Global error handler middleware
 app.use((err, req, res, next) => {
-    res.status(err.status || 500).json({
+    res.status(err.status || 500).send({
         error: {
             message: err.message || "An internal server error occurred"
         }
